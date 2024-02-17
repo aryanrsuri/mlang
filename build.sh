@@ -1,2 +1,2 @@
-go build main.go
-./main
+go build -o bin/main
+./bin/main
